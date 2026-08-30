@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Senvon-Atelier/.github/main/profile/assets/logo.png" alt="Senvon Atelier" width="150"/>
-
-# **Senvon Atelier**
+<img src="https://raw.githubusercontent.com/Senvon-Atelier/.github/main/profile/assets/banner.jpg" alt="Senvon Atelier — Custom Software. Built With Intent." width="100%"/>
 
 ### *A Software Atelier Crafting Modern Custom Software*
-
-***Built with intent — not templates.***
 
 [![EN](https://img.shields.io/badge/README-EN-blue?color=C2442A&labelColor=16150F&style=for-the-badge)](https://github.com/Senvon-Atelier/.github/blob/main/profile/README.md)
 [![FR](https://img.shields.io/badge/README-FR-blue?color=2D4A3E&labelColor=16150F&style=for-the-badge)](https://github.com/Senvon-Atelier/.github/blob/main/profile/README.fr.md)
