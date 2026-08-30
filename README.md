@@ -15,7 +15,8 @@ The organisation profile README lives at [`profile/README.md`](profile/README.md
 | Deutsch | [`profile/README.de.md`](profile/README.de.md) |
 | 中文 | [`profile/README.zh.md`](profile/README.zh.md) |
 | Twi | [`profile/README.tw.md`](profile/README.tw.md) |
+| Ga | [`profile/README.gaa.md`](profile/README.gaa.md) |
 
 English is the source of truth. When it changes, update the translations in the same commit.
 
-> **Note:** the Twi translation is pending a native-speaker review.
+> **Note:** the Twi and Ga translations are pending a native-speaker review.
