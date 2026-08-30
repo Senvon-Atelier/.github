@@ -179,7 +179,7 @@ Nous confions chaque projet à des profils seniors, et nous recrutons de la mêm
 
 [![Website](https://img.shields.io/badge/Site-senvon.studio-C2442A?style=for-the-badge&logo=safari&logoColor=white&labelColor=16150F)](https://senvon.studio)
 [![Email](https://img.shields.io/badge/Email-hello@senvon.studio-2D4A3E?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=16150F)](mailto:hello@senvon.studio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Senvon%20Atelier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=16150F)](https://www.linkedin.com/company/senvonatelier)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Senvon%20Atelier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=16150F)](https://www.linkedin.com/company/senvon-atelier)
 [![X](https://img.shields.io/badge/X-@senvonatelier-16150F?style=for-the-badge&logo=x&logoColor=white&labelColor=16150F)](https://x.com/senvonatelier)
 
 **Accra, Ghana · Remote-first**
