@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Senvon-Atelier/.github/main/profile/assets/logo.png" alt="Senvon Atelier" width="150"/>
-
-# **Senvon Atelier**
+<img src="https://raw.githubusercontent.com/Senvon-Atelier/.github/main/profile/assets/banner.jpg" alt="Senvon Atelier — Custom Software. Built With Intent." width="100%"/>
 
 ### *Un atelier logiciel qui façonne des logiciels sur mesure*
 
