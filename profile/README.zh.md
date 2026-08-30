@@ -14,6 +14,7 @@
 [![DE](https://img.shields.io/badge/README-DE-blue?color=2D4A3E&labelColor=16150F&style=for-the-badge)](https://github.com/Senvon-Atelier/.github/blob/main/profile/README.de.md)
 [![ZH](https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87-blue?color=C2442A&labelColor=16150F&style=for-the-badge)](https://github.com/Senvon-Atelier/.github/blob/main/profile/README.zh.md)
 [![TWI](https://img.shields.io/badge/README-TWI-blue?color=2D4A3E&labelColor=16150F&style=for-the-badge)](https://github.com/Senvon-Atelier/.github/blob/main/profile/README.tw.md)
+[![GA](https://img.shields.io/badge/README-GA-blue?color=2D4A3E&labelColor=16150F&style=for-the-badge)](https://github.com/Senvon-Atelier/.github/blob/main/profile/README.gaa.md)
 
 [**关于工作室**](#-关于工作室) - [**我们做什么**](#-我们做什么) - [**精选作品**](#-精选作品) - [**自有产品**](#-自有产品) - [**与我们合作**](#-与我们合作)
 
